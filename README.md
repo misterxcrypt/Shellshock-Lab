@@ -17,3 +17,7 @@ cd Shellshock-lab
 sudo docker build -t shellshock-lab .
 sudo docker run -d -p 8080:80 shellshock-lab
 ```
+
+## Output
+
+The lab is available at https://127.0.0.1:8080/
